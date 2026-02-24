@@ -1,3 +1,13 @@
 [
-  
+  {
+    "id": 1771960462506,
+    "name": "مع كاتالوج",
+    "price": "50000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960437879_29.webp",
+    "desc": "يبلقفا\nفقا\n\nقفللاا\nلقفب\nلا\nقفبل\nلاقفبل\nلا\nقفبل\nلابل\nلابل\nلا\nبل\nلا\nبللا\nبل\nلا\nبل\nلاب\nللا\n\nبل",
+    "old_price": "70000",
+    "badge_text": "خصم 20 ألف",
+    "cat": "مجديات",
+    "is_offer": false
+  }
 ]
