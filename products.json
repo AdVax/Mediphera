@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772047883498,
+    "name": "بنطاريبن",
+    "price": "78000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772047850050_525.webp",
+    "desc": "يسبنتال\nيبليبل\nيبل\nيبل\nيب\nليبل\nيب\nليب\nل\nيبل\nيبل",
+    "old_price": "90000",
+    "badge_text": "خصومات",
+    "cat": "كلاسين",
+    "is_offer": true
+  },
+  {
     "id": 1771961880745,
     "name": "ءؤريبل",
     "price": "54646",
