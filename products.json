@@ -1,24 +1,13 @@
 [
   {
-    "id": 1771961731041,
-    "name": "ثقفلثقف",
-    "price": "65674",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961715016_112.webp",
-    "desc": "فغافبابفل\nابل\nا\nبلا\nبل\nابل\nابل\nاب\nلا\nبلا\nبلا",
+    "id": 1771961162777,
+    "name": "غعتنت",
+    "price": "87846",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961147351_584.webp",
+    "desc": "فاا\nفا\nف\nاقف\nا\nقفا\nسقف\nلا\nسفلا",
     "old_price": "",
-    "badge_text": "يقفلافغا",
-    "cat": "ق6فغا",
-    "is_offer": false
-  },
-  {
-    "id": 1771961704585,
-    "name": "لبايبلا",
-    "price": "1210015",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961690423_84.webp",
-    "desc": "ثقلاقفلاقف\nلاقف\nا\nقفالقف\nلا\nقف\nلاقف\nا\nقفال\nقفاقف\nا\n",
-    "old_price": "5644",
-    "badge_text": "قفلاثقلاغ",
-    "cat": "ثقلاثق",
+    "badge_text": "فباقفا",
+    "cat": "قثفغثق",
     "is_offer": false
   },
   {
@@ -33,25 +22,25 @@
     "is_offer": false
   },
   {
-    "id": 1771961162777,
-    "name": "غعتنت",
-    "price": "87846",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961147351_584.webp",
-    "desc": "فاا\nفا\nف\nاقف\nا\nقفا\nسقف\nلا\nسفلا",
-    "old_price": "",
-    "badge_text": "فباقفا",
-    "cat": "قثفغثق",
+    "id": 1771961704585,
+    "name": "لبايبلا",
+    "price": "1210015",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961690423_84.webp",
+    "desc": "ثقلاقفلاقف\nلاقف\nا\nقفالقف\nلا\nقف\nلاقف\nا\nقفال\nقفاقف\nا\n",
+    "old_price": "5644",
+    "badge_text": "قفلاثقلاغ",
+    "cat": "ثقلاثق",
     "is_offer": false
   },
   {
-    "id": 1771960749257,
-    "name": "المعلميات",
-    "price": "70000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960715811_646.webp",
-    "desc": "فبلاقلسيبل\nا\nبل\nابل\nا\nبلا\nبل\nابل\nا\nبل\nابل\nا\nبلا",
+    "id": 1771961731041,
+    "name": "ثقفلثقف",
+    "price": "65674",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961715016_112.webp",
+    "desc": "فغافبابفل\nابل\nا\nبلا\nبل\nابل\nابل\nاب\nلا\nبلا\nبلا",
     "old_price": "",
-    "badge_text": "",
-    "cat": "مجديات",
+    "badge_text": "يقفلافغا",
+    "cat": "ق6فغا",
     "is_offer": false
   },
   {
@@ -62,6 +51,17 @@
     "desc": "يبلقفا\nفقا\n\nقفللاا\nلقفب\nلا\nقفبل\nلاقفبل\nلا\nقفبل\nلابل\nلابل\nلا\nبل\nلا\nبللا\nبل\nلا\nبل\nلاب\nللا\n\nبل",
     "old_price": "70000",
     "badge_text": "خصم 20 ألف",
+    "cat": "مجديات",
+    "is_offer": false
+  },
+  {
+    "id": 1771960749257,
+    "name": "المعلميات",
+    "price": "70000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960715811_646.webp",
+    "desc": "فبلاقلسيبل\nا\nبل\nابل\nا\nبلا\nبل\nابل\nا\nبل\nابل\nا\nبلا",
+    "old_price": "",
+    "badge_text": "",
     "cat": "مجديات",
     "is_offer": false
   },
@@ -99,17 +99,6 @@
     "is_offer": false
   },
   {
-    "id": 1772047883498,
-    "name": "بنطاريبن",
-    "price": "78000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772047850050_525.webp",
-    "desc": "يسبنتال\nيبليبل\nيبل\nيبل\nيب\nليبل\nيب\nليب\nل\nيبل\nيبل",
-    "old_price": "90000",
-    "badge_text": "خصومات",
-    "cat": "كلاسين",
-    "is_offer": true
-  },
-  {
     "id": 1771960940833,
     "name": "بنكال",
     "price": "70000",
@@ -129,6 +118,17 @@
     "old_price": "54870",
     "badge_text": "خصميات",
     "cat": "معقول عرض",
+    "is_offer": true
+  },
+  {
+    "id": 1772047883498,
+    "name": "بنطاريبن",
+    "price": "78000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772047850050_525.webp",
+    "desc": "يسبنتال\nيبليبل\nيبل\nيبل\nيب\nليبل\nيب\nليب\nل\nيبل\nيبل",
+    "old_price": "90000",
+    "badge_text": "خصومات",
+    "cat": "كلاسين",
     "is_offer": true
   }
 ]
