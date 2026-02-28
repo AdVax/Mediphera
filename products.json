@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772294294106,
+    "name": "سيروم نياسنمايد",
+    "price": "30000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772294251642_217.webp",
+    "desc": "لعلاج الرؤوس السوداء ودهنية البشرة",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "منتجات بشرة",
+    "is_offer": false
+  },
+  {
     "id": 1772293261220,
     "name": "تيسات",
     "price": "76000",
