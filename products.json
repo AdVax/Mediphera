@@ -22,17 +22,6 @@
     "is_offer": false
   },
   {
-    "id": 1771960462506,
-    "name": "مع كاتالوج",
-    "price": "50000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960437879_29.webp",
-    "desc": "يبلقفا\nفقا\n\nقفللاا\nلقفب\nلا\nقفبل\nلاقفبل\nلا\nقفبل\nلابل\nلابل\nلا\nبل\nلا\nبللا\nبل\nلا\nبل\nلاب\nللا\n\nبل",
-    "old_price": "70000",
-    "badge_text": "خصم 20 ألف",
-    "cat": "مجديات",
-    "is_offer": false
-  },
-  {
     "id": 1772294294106,
     "name": "سيروم نياسنمايد",
     "price": "30000",
@@ -41,6 +30,17 @@
     "old_price": "",
     "badge_text": "",
     "cat": "منتجات بشرة",
+    "is_offer": false
+  },
+  {
+    "id": 1771960462506,
+    "name": "مع كاتالوج",
+    "price": "50000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960437879_29.webp",
+    "desc": "يبلقفا\nفقا\n\nقفللاا\nلقفب\nلا\nقفبل\nلاقفبل\nلا\nقفبل\nلابل\nلابل\nلا\nبل\nلا\nبللا\nبل\nلا\nبل\nلاب\nللا\n\nبل",
+    "old_price": "70000",
+    "badge_text": "خصم 20 ألف",
+    "cat": "مجديات",
     "is_offer": false
   },
   {
@@ -121,17 +121,6 @@
     "is_offer": false
   },
   {
-    "id": 1771960940833,
-    "name": "بنكال",
-    "price": "70000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960906380_429.webp",
-    "desc": "غابل\nاىبل\nى\nبلى\nبل\nا\nبل\nابل\nا\nبلا\nبل\nابلا",
-    "old_price": "90000",
-    "badge_text": "خصم 10 %",
-    "cat": "ملابسيات",
-    "is_offer": true
-  },
-  {
     "id": 1772047883498,
     "name": "بنطاريبن",
     "price": "78000",
@@ -140,6 +129,17 @@
     "old_price": "90000",
     "badge_text": "خصومات",
     "cat": "كلاسين",
+    "is_offer": true
+  },
+  {
+    "id": 1771960940833,
+    "name": "بنكال",
+    "price": "70000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960906380_429.webp",
+    "desc": "غابل\nاىبل\nى\nبلى\nبل\nا\nبل\nابل\nا\nبلا\nبل\nابلا",
+    "old_price": "90000",
+    "badge_text": "خصم 10 %",
+    "cat": "ملابسيات",
     "is_offer": true
   },
   {
