@@ -22,17 +22,6 @@
     "is_offer": false
   },
   {
-    "id": 1771961124137,
-    "name": "بلابفا",
-    "price": "870000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961107696_293.webp",
-    "desc": "قيلثقل\nقل\nيبل\nيبل\nيبل\nيب\nليب\nل\nيبل\nل",
-    "old_price": "",
-    "badge_text": "لثقلقل",
-    "cat": "سيلب",
-    "is_offer": false
-  },
-  {
     "id": 1772294294106,
     "name": "سيروم نياسنمايد",
     "price": "30000",
@@ -44,6 +33,17 @@
     "is_offer": false
   },
   {
+    "id": 1771961124137,
+    "name": "بلابفا",
+    "price": "870000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771961107696_293.webp",
+    "desc": "قيلثقل\nقل\nيبل\nيبل\nيبل\nيب\nليب\nل\nيبل\nل",
+    "old_price": "",
+    "badge_text": "لثقلقل",
+    "cat": "سيلب",
+    "is_offer": false
+  },
+  {
     "id": 1771960749257,
     "name": "المعلميات",
     "price": "70000",
@@ -51,17 +51,6 @@
     "desc": "فبلاقلسيبل\nا\nبل\nابل\nا\nبلا\nبل\nابل\nا\nبل\nابل\nا\nبلا",
     "old_price": "",
     "badge_text": "",
-    "cat": "مجديات",
-    "is_offer": false
-  },
-  {
-    "id": 1771960462506,
-    "name": "مع كاتالوج",
-    "price": "50000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960437879_29.webp",
-    "desc": "يبلقفا\nفقا\n\nقفللاا\nلقفب\nلا\nقفبل\nلاقفبل\nلا\nقفبل\nلابل\nلابل\nلا\nبل\nلا\nبللا\nبل\nلا\nبل\nلاب\nللا\n\nبل",
-    "old_price": "70000",
-    "badge_text": "خصم 20 ألف",
     "cat": "مجديات",
     "is_offer": false
   },
