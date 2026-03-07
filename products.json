@@ -1,16 +1,5 @@
 [
   {
-    "id": 1771960940833,
-    "name": "بنكال",
-    "price": "70000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1771960906380_429.webp",
-    "desc": "غابل\nاىبل\nى\nبلى\nبل\nا\nبل\nابل\nا\nبلا\nبل\nابلا",
-    "old_price": "90000",
-    "badge_text": "خصم 10 %",
-    "cat": "ملابسيات",
-    "is_offer": true
-  },
-  {
     "id": 1771960887921,
     "name": "جينز",
     "price": "45000",
