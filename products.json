@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772896873978,
+    "name": "تجربة عروض",
+    "price": "80000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772896868659_7934.webp",
+    "desc": "وؤتيتي\nى.ل\nب\nل\nل\nل\nل\n",
+    "old_price": "",
+    "badge_text": "عرض العيد",
+    "cat": "",
+    "is_offer": true
+  },
+  {
     "id": 1772891272716,
     "name": "بخاخ الاعشاب",
     "price": "300ل.س",
