@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772883566232,
+    "name": "Gloss🎀",
+    "price": "35000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772883523508_9204.webp",
+    "desc": "",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "منتجات تجميل",
+    "is_offer": false
+  },
+  {
     "id": 1772293261220,
     "name": "تيسات",
     "price": "76000",
