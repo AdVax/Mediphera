@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772889156171,
+    "name": "Eyebrow wax🎀",
+    "price": "300ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889068132_1069.webp",
+    "desc": "واكس الحواجب🫶\nمدعم بvit e\nيصفف ويثبت الحواجب دون قشور بيضاء \nلايسبب ضرر للحاجب🩷",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "مستحضرات التجميل💄",
+    "is_offer": false
+  },
+  {
     "id": 1772889045947,
     "name": "Tent كريمي🎀",
     "price": "250ل.س",
