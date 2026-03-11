@@ -35,13 +35,13 @@
   {
     "id": 1772994672754,
     "name": "غسول البشرة المقشر🎀",
-    "price": "400ل.س",
+    "price": "300ل.س",
     "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994621583_2781.webp",
     "desc": "غسول البشرة المقشر\nلعلاج حب الشباب\nحاوي على السالسليك اسيد وزيت شجرة الشاي🩷",
-    "old_price": "",
+    "old_price": "400ل.س",
     "badge_text": "",
     "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": false
+    "is_offer": true
   },
   {
     "id": 1772994594395,
