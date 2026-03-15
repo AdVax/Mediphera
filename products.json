@@ -343,13 +343,13 @@
   {
     "id": 1772887858003,
     "name": "Lip scrub🎀",
-    "price": "180ل.س",
+    "price": "100ل.س",
     "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772887758013_6399.webp",
     "desc": "مقشر الشفاه الغني بالزيوت \nيترك لون خفيف طبيعي للشفاه\nيساعد على ازالة الجلد الميت للشفاه🫶",
-    "old_price": "",
+    "old_price": "180ل.س",
     "badge_text": "",
     "cat": "مستحضرات التجميل💄",
-    "is_offer": false
+    "is_offer": true
   },
   {
     "id": 1772887623469,
