@@ -79,13 +79,13 @@
   {
     "id": 1772994259111,
     "name": "سيروم الهيالورنيك اسيد🎀",
-    "price": "300ل.س",
+    "price": "220ل.س",
     "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994072308_5525.webp",
     "desc": "سيروم الهيالورنيك اسيد \nللترطيب والنضارة والاشراق🩷",
-    "old_price": "",
+    "old_price": "300ل.س",
     "badge_text": "",
     "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": false
+    "is_offer": true
   },
   {
     "id": 1772994060077,
