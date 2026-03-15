@@ -90,13 +90,13 @@
   {
     "id": 1772994060077,
     "name": "سيروم النياسنمايد B3🎀",
-    "price": "350 ل.س",
+    "price": "200ل.س",
     "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993995373_7019.webp",
     "desc": "سيروم النياسنمايد \nلتوازن دهنية البشرة_ترطيب ونضارة_علاج اثار حب الشباب_تقليل الرؤوس السوداء🩷",
-    "old_price": "",
+    "old_price": "350ل.س",
     "badge_text": "",
     "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": false
+    "is_offer": true
   },
   {
     "id": 1772993985191,
