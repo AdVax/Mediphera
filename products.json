@@ -167,13 +167,13 @@
   {
     "id": 1772913903458,
     "name": "روتين العناية بالشعر🎀",
-    "price": "1150ل.س",
+    "price": "900ل.س",
     "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913811599_7353.webp",
     "desc": "روتين الشعر الكامل\nلعلاج جميع مشاكل الشعر \nيطول ويكثف ويغذي الشعر ويخفف النفشة🩷",
-    "old_price": "",
+    "old_price": "1150ل.س",
     "badge_text": "",
     "cat": "مستحضرات العناية بالشعر✨️",
-    "is_offer": false
+    "is_offer": true
   },
   {
     "id": 1772913731450,
