@@ -134,13 +134,13 @@
   {
     "id": 1772915339896,
     "name": "تونر البشرة🎀",
-    "price": "300ل.س",
+    "price": "200ل.س",
     "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772915301905_2820.webp",
     "desc": "تونر البشرة \nمدعم بالفيتامينات والنياسنمايد والهيالورنيك اسيد🩷",
-    "old_price": "",
+    "old_price": "300ل.س",
     "badge_text": "",
     "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": false
+    "is_offer": true
   },
   {
     "id": 1772915293455,
