@@ -55,17 +55,6 @@
     "is_offer": false
   },
   {
-    "id": 1772994441022,
-    "name": "سيروم التفتيح🎀",
-    "price": "250ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994395434_8668.webp",
-    "desc": "سيروم التفتيح\nبلالفا اربوتين وعرق السوس \nيفتح لون البشرة ويعالج التصبغات 🩷",
-    "old_price": "350ل.س",
-    "badge_text": "عروض العيد🫶",
-    "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": true
-  },
-  {
     "id": 1772994387672,
     "name": "سيروم vit c🎀",
     "price": "350 ل.س",
@@ -75,28 +64,6 @@
     "badge_text": "",
     "cat": "مستحضرات العناية بالبشرة💕",
     "is_offer": false
-  },
-  {
-    "id": 1772994259111,
-    "name": "سيروم الهيالورنيك اسيد🎀",
-    "price": "220ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994072308_5525.webp",
-    "desc": "سيروم الهيالورنيك اسيد \nللترطيب والنضارة والاشراق🩷",
-    "old_price": "300ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": true
-  },
-  {
-    "id": 1772994060077,
-    "name": "سيروم النياسنمايد B3🎀",
-    "price": "200ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993995373_7019.webp",
-    "desc": "سيروم النياسنمايد \nلتوازن دهنية البشرة_ترطيب ونضارة_علاج اثار حب الشباب_تقليل الرؤوس السوداء🩷",
-    "old_price": "350ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": true
   },
   {
     "id": 1772993985191,
@@ -121,28 +88,6 @@
     "is_offer": false
   },
   {
-    "id": 1772993684943,
-    "name": "صابونة للجسم🎀",
-    "price": "120ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993640968_3685.webp",
-    "desc": "صوابين الجسم \nبروائح متنوعة \nمتوفر نسائي ورجالي🩷",
-    "old_price": "200ل.س",
-    "badge_text": "",
-    "cat": "صابون🧼",
-    "is_offer": true
-  },
-  {
-    "id": 1772915339896,
-    "name": "تونر البشرة🎀",
-    "price": "200ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772915301905_2820.webp",
-    "desc": "تونر البشرة \nمدعم بالفيتامينات والنياسنمايد والهيالورنيك اسيد🩷",
-    "old_price": "300ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات العناية بالبشرة💕",
-    "is_offer": true
-  },
-  {
     "id": 1772915293455,
     "name": "مرطب نهاري🎀",
     "price": "350ل.س",
@@ -152,39 +97,6 @@
     "badge_text": "",
     "cat": "مستحضرات العناية بالبشرة💕",
     "is_offer": false
-  },
-  {
-    "id": 1772914012100,
-    "name": "Gloss🎀",
-    "price": "220ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913958739_6213.webp",
-    "desc": "غلوس الشفاه\nملمع ومغذي الشفاه 🩷\nمتوفر بعدة الوان🩷",
-    "old_price": "350ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات التجميل💄",
-    "is_offer": true
-  },
-  {
-    "id": 1772913903458,
-    "name": "روتين العناية بالشعر🎀",
-    "price": "900ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913811599_7353.webp",
-    "desc": "روتين الشعر الكامل\nلعلاج جميع مشاكل الشعر \nيطول ويكثف ويغذي الشعر ويخفف النفشة🩷",
-    "old_price": "1150ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات العناية بالشعر✨️",
-    "is_offer": true
-  },
-  {
-    "id": 1772913731450,
-    "name": "معطر الشعر🎀",
-    "price": "180ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913587115_8538.webp",
-    "desc": "معطر الشعر بلاعشاب\nيغذي الشعر ويمنح الشعر رائحة عطرة\nمتوفر بعدة روائح🩷",
-    "old_price": "300ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات العناية بالشعر✨️",
-    "is_offer": true
   },
   {
     "id": 1772891272716,
@@ -207,61 +119,6 @@
     "badge_text": "",
     "cat": "مستحضرات العناية بالشعر✨️",
     "is_offer": false
-  },
-  {
-    "id": 1772891107463,
-    "name": "زيوت الشعر🎀",
-    "price": "250ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891037806_7814.webp",
-    "desc": "زيوت الشعر للتطويل والتكثيف \nحاوي على 8 زيوت وفيتامينات تساعد الشعر على زيادة الطول والكثافة🩷",
-    "old_price": "350ل.س",
-    "badge_text": "",
-    "cat": "مستحضرات العناية بالشعر✨️",
-    "is_offer": true
-  },
-  {
-    "id": 1772890528741,
-    "name": "صابونة الفحم الفعال🎀",
-    "price": "150ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890463631_7790.webp",
-    "desc": "صابونة الفحم الفعال المثالية للبشرة الدهنية\nتعالج الرؤوس السوداء وتنظم افراز الزيوت في البشرة🩷",
-    "old_price": "250ل.س",
-    "badge_text": "",
-    "cat": "صابون🧼",
-    "is_offer": true
-  },
-  {
-    "id": 1772890453611,
-    "name": "صابونة علاج حب الشباب🎀",
-    "price": "150ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890389019_1758.webp",
-    "desc": "صابونة علاج حب الشباب \nالحاوية على سالسليك اسيد وزيت شجرة الشاي🩷\n",
-    "old_price": "250ل.س",
-    "badge_text": "",
-    "cat": "صابون🧼",
-    "is_offer": true
-  },
-  {
-    "id": 1772890375489,
-    "name": "صابونة الكولاجين🎀",
-    "price": "150ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890312142_1538.webp",
-    "desc": "صابونة الكولاجين للشد والتغذية\nحاوية على كولاجين ولبان ذكر وزيت لبان الذكر ومواد مغذية ومرطبة🩷",
-    "old_price": "250ل.س",
-    "badge_text": "",
-    "cat": "صابون🧼",
-    "is_offer": true
-  },
-  {
-    "id": 1772889811684,
-    "name": "صابونة الورد🎀",
-    "price": "150ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889686595_1666.webp",
-    "desc": "صابونة الورد للترطيب والتفتيح🩷\nحاوية على زيت الورد والغليسرين و  vite\n",
-    "old_price": "250ل.س",
-    "badge_text": "",
-    "cat": "صابون🧼",
-    "is_offer": true
   },
   {
     "id": 1772889558914,
@@ -330,6 +187,160 @@
     "is_offer": false
   },
   {
+    "id": 1772887194471,
+    "name": "Body lotion🎀",
+    "price": "300ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772887062185_6640.webp",
+    "desc": "لوشن الجسم المدعم بالزيوت والزبدات (زبدة الشيا _زبدة الكاكاو_زيت جوز الهند_زيت الجوجوبا)\nبلاضافة لاحتوائه على vit e للتغذية🩷\nمتوفر بعدة روائح🫶\n",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "مستحضرات التجميل💄",
+    "is_offer": false
+  },
+  {
+    "id": 1772994441022,
+    "name": "سيروم التفتيح🎀",
+    "price": "250ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994395434_8668.webp",
+    "desc": "سيروم التفتيح\nبلالفا اربوتين وعرق السوس \nيفتح لون البشرة ويعالج التصبغات 🩷",
+    "old_price": "350ل.س",
+    "badge_text": "عروض العيد🫶",
+    "cat": "مستحضرات العناية بالبشرة💕",
+    "is_offer": true
+  },
+  {
+    "id": 1772994259111,
+    "name": "سيروم الهيالورنيك اسيد🎀",
+    "price": "220ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994072308_5525.webp",
+    "desc": "سيروم الهيالورنيك اسيد \nللترطيب والنضارة والاشراق🩷",
+    "old_price": "300ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات العناية بالبشرة💕",
+    "is_offer": true
+  },
+  {
+    "id": 1772994060077,
+    "name": "سيروم النياسنمايد B3🎀",
+    "price": "200ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993995373_7019.webp",
+    "desc": "سيروم النياسنمايد \nلتوازن دهنية البشرة_ترطيب ونضارة_علاج اثار حب الشباب_تقليل الرؤوس السوداء🩷",
+    "old_price": "350ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات العناية بالبشرة💕",
+    "is_offer": true
+  },
+  {
+    "id": 1772993684943,
+    "name": "صابونة للجسم🎀",
+    "price": "120ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993640968_3685.webp",
+    "desc": "صوابين الجسم \nبروائح متنوعة \nمتوفر نسائي ورجالي🩷",
+    "old_price": "200ل.س",
+    "badge_text": "",
+    "cat": "صابون🧼",
+    "is_offer": true
+  },
+  {
+    "id": 1772915339896,
+    "name": "تونر البشرة🎀",
+    "price": "200ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772915301905_2820.webp",
+    "desc": "تونر البشرة \nمدعم بالفيتامينات والنياسنمايد والهيالورنيك اسيد🩷",
+    "old_price": "300ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات العناية بالبشرة💕",
+    "is_offer": true
+  },
+  {
+    "id": 1772914012100,
+    "name": "Gloss🎀",
+    "price": "220ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913958739_6213.webp",
+    "desc": "غلوس الشفاه\nملمع ومغذي الشفاه 🩷\nمتوفر بعدة الوان🩷",
+    "old_price": "350ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات التجميل💄",
+    "is_offer": true
+  },
+  {
+    "id": 1772913903458,
+    "name": "روتين العناية بالشعر🎀",
+    "price": "900ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913811599_7353.webp",
+    "desc": "روتين الشعر الكامل\nلعلاج جميع مشاكل الشعر \nيطول ويكثف ويغذي الشعر ويخفف النفشة🩷",
+    "old_price": "1150ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات العناية بالشعر✨️",
+    "is_offer": true
+  },
+  {
+    "id": 1772913731450,
+    "name": "معطر الشعر🎀",
+    "price": "180ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913587115_8538.webp",
+    "desc": "معطر الشعر بلاعشاب\nيغذي الشعر ويمنح الشعر رائحة عطرة\nمتوفر بعدة روائح🩷",
+    "old_price": "300ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات العناية بالشعر✨️",
+    "is_offer": true
+  },
+  {
+    "id": 1772891107463,
+    "name": "زيوت الشعر🎀",
+    "price": "250ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891037806_7814.webp",
+    "desc": "زيوت الشعر للتطويل والتكثيف \nحاوي على 8 زيوت وفيتامينات تساعد الشعر على زيادة الطول والكثافة🩷",
+    "old_price": "350ل.س",
+    "badge_text": "",
+    "cat": "مستحضرات العناية بالشعر✨️",
+    "is_offer": true
+  },
+  {
+    "id": 1772890528741,
+    "name": "صابونة الفحم الفعال🎀",
+    "price": "150ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890463631_7790.webp",
+    "desc": "صابونة الفحم الفعال المثالية للبشرة الدهنية\nتعالج الرؤوس السوداء وتنظم افراز الزيوت في البشرة🩷",
+    "old_price": "250ل.س",
+    "badge_text": "",
+    "cat": "صابون🧼",
+    "is_offer": true
+  },
+  {
+    "id": 1772890453611,
+    "name": "صابونة علاج حب الشباب🎀",
+    "price": "150ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890389019_1758.webp",
+    "desc": "صابونة علاج حب الشباب \nالحاوية على سالسليك اسيد وزيت شجرة الشاي🩷\n",
+    "old_price": "250ل.س",
+    "badge_text": "",
+    "cat": "صابون🧼",
+    "is_offer": true
+  },
+  {
+    "id": 1772890375489,
+    "name": "صابونة الكولاجين🎀",
+    "price": "150ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890312142_1538.webp",
+    "desc": "صابونة الكولاجين للشد والتغذية\nحاوية على كولاجين ولبان ذكر وزيت لبان الذكر ومواد مغذية ومرطبة🩷",
+    "old_price": "250ل.س",
+    "badge_text": "",
+    "cat": "صابون🧼",
+    "is_offer": true
+  },
+  {
+    "id": 1772889811684,
+    "name": "صابونة الورد🎀",
+    "price": "150ل.س",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889686595_1666.webp",
+    "desc": "صابونة الورد للترطيب والتفتيح🩷\nحاوية على زيت الورد والغليسرين و  vite\n",
+    "old_price": "250ل.س",
+    "badge_text": "",
+    "cat": "صابون🧼",
+    "is_offer": true
+  },
+  {
     "id": 1772888538353,
     "name": "Tent سائل🎀",
     "price": "150ل.س",
@@ -361,17 +372,6 @@
     "badge_text": "",
     "cat": "مستحضرات التجميل💄",
     "is_offer": true
-  },
-  {
-    "id": 1772887194471,
-    "name": "Body lotion🎀",
-    "price": "300ل.س",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772887062185_6640.webp",
-    "desc": "لوشن الجسم المدعم بالزيوت والزبدات (زبدة الشيا _زبدة الكاكاو_زيت جوز الهند_زيت الجوجوبا)\nبلاضافة لاحتوائه على vit e للتغذية🩷\nمتوفر بعدة روائح🫶\n",
-    "old_price": "",
-    "badge_text": "",
-    "cat": "مستحضرات التجميل💄",
-    "is_offer": false
   },
   {
     "id": 1772887011265,
