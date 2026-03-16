@@ -1,5 +1,16 @@
 [
   {
+    "id": 1773700036815,
+    "name": "Test 2",
+    "price": "1500",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1773700007938_5634.webp",
+    "desc": "Test",
+    "old_price": "3000",
+    "badge_text": "Test",
+    "cat": "Testt",
+    "is_offer": true
+  },
+  {
     "id": 1772994891072,
     "name": "روتين العناية بالبشرة🎀",
     "price": "1300ل.س",
