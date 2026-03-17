@@ -1,6 +1,17 @@
 {
-  "_v": 1773776939432,
+  "_v": 1773777017343,
   "items": [
+    {
+      "id": 1773777017343,
+      "name": "Lip scrub🎀",
+      "price": "180ل.س",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1773776956515_6295.webp",
+      "desc": "مقشر الشفاه \nيزيل الجلد الميت ويعطي لون طبيعي للشفاه🩷",
+      "old_price": "",
+      "badge_text": "",
+      "cat": "مستحضرات التجميل💄",
+      "is_offer": false
+    },
     {
       "id": 1772994891072,
       "name": "روتين العناية بالبشرة🎀",
