@@ -1,5 +1,5 @@
 {
-  "_v": 1773776827900,
+  "_v": 1773776846600,
   "items": [
     {
       "id": 1772994891072,
@@ -345,13 +345,13 @@
     {
       "id": 1772888538353,
       "name": "Tent سائل🎀",
-      "price": "150ل.س",
+      "price": "220ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772888063640_4873.webp",
       "desc": "مورد الخدود والشفاه السائل \nيمنح لون طبيعي \nمتوفر لونين( احمر _زهر )🩷",
-      "old_price": "220ل.س",
+      "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": true
+      "is_offer": false
     },
     {
       "id": 1772887623469,
