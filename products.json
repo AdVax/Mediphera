@@ -1,5 +1,5 @@
 {
-  "_v": 1773776872155,
+  "_v": 1773776884089,
   "items": [
     {
       "id": 1772994891072,
@@ -334,13 +334,13 @@
     {
       "id": 1772889811684,
       "name": "صابونة الورد🎀",
-      "price": "150ل.س",
+      "price": "250ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889686595_1666.webp",
       "desc": "صابونة الورد للترطيب والتفتيح🩷\nحاوية على زيت الورد والغليسرين و  vite\n",
-      "old_price": "250ل.س",
+      "old_price": "",
       "badge_text": "",
       "cat": "صابون🧼",
-      "is_offer": true
+      "is_offer": false
     },
     {
       "id": 1772888538353,
