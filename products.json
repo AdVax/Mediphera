@@ -1,5 +1,5 @@
 {
-  "_v": 1773776927267,
+  "_v": 1773776939432,
   "items": [
     {
       "id": 1772994891072,
@@ -367,13 +367,13 @@
     {
       "id": 1772887011265,
       "name": "Body splash🎀",
-      "price": "22.ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772886846827_5163.webp",
       "desc": "سبلاش الجسم \nبروائح ثابتة وفواحة \nوروائح نسائية ورجالية\nممكن تنفيذ اي رائحة عطر مميز لديكم🫶",
-      "old_price": "300ل.س",
+      "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": true
+      "is_offer": false
     }
   ]
 }
