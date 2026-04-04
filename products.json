@@ -1,17 +1,6 @@
 {
-  "_v": 1775327915326,
+  "_v": 1775328061133,
   "items": [
-    {
-      "id": 1775327915310,
-      "name": "Test",
-      "price": "3000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1775327897444_5498.webp",
-      "desc": "",
-      "old_price": "3000",
-      "badge_text": "Test",
-      "cat": "العناية بالبشرة",
-      "is_offer": false
-    },
     {
       "id": 1773777017343,
       "name": "Lip scrub🎀",
