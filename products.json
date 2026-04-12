@@ -1,5 +1,5 @@
 {
-  "_v": 1776002440741,
+  "_v": 1776003787391,
   "items": [
     {
       "id": 1773777017343,
@@ -180,13 +180,13 @@
     {
       "id": 1772889156171,
       "name": "Eyebrow wax🎀",
-      "price": "300ل.س",
+      "price": "250ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889068132_1069.webp",
       "desc": "واكس الحواجب🫶\nمدعم بvit e\nيصفف ويثبت الحواجب دون قشور بيضاء \nلايسبب ضرر للحاجب🩷",
-      "old_price": "",
+      "old_price": "300ل.س",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": false
+      "is_offer": true
     },
     {
       "id": 1772889045947,
