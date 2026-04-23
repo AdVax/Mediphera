@@ -1,5 +1,5 @@
 {
-  "_v": 1776003893553,
+  "_v": 1776929377411,
   "items": [
     {
       "id": 1773777017343,
@@ -193,11 +193,29 @@
       "name": "Tent كريمي🎀",
       "price": "250ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772888951873_4498.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772888951873_4498.webp"
+      ],
       "desc": "مورد الخدود والشفاه الكريمي \nحاوي على مرطبات اهمها vit b5\nيمنح لون طبيعي \nمتوفر لونين ( زهر _ احمر )🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": false
+      "is_offer": false,
+      "variants": [
+        {
+          "label": "الالوان",
+          "options": [
+            {
+              "name": "احمر",
+              "price": null
+            },
+            {
+              "name": "زهر",
+              "price": null
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 1772887194471,
