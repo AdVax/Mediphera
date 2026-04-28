@@ -1,5 +1,5 @@
 {
-  "_v": 1776929377411,
+  "_v": 1777394227406,
   "items": [
     {
       "id": 1773777017343,
@@ -92,13 +92,17 @@
     {
       "id": 1772993899017,
       "name": "مرطب ليلي🎀",
-      "price": "350 ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993854899_7836.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993854899_7836.webp"
+      ],
       "desc": "مرطب ليلي\nمفتح ومغذي \nحاوي على الالفا اربوتين و vit e وخلاصة عرق السوس🩷",
-      "old_price": "",
+      "old_price": "350ل.س",
       "badge_text": "",
       "cat": "مستحضرات العناية بالبشرة💕",
-      "is_offer": false
+      "is_offer": true,
+      "variants": []
     },
     {
       "id": 1772915293455,
