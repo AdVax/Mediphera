@@ -1,5 +1,5 @@
 {
-  "_v": 1777394307265,
+  "_v": 1777394365346,
   "items": [
     {
       "id": 1773777017343,
@@ -140,13 +140,17 @@
     {
       "id": 1772889558914,
       "name": "مزيل التعرق🎀",
-      "price": "350ل.س",
+      "price": "250ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889482248_7888.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889482248_7888.webp"
+      ],
       "desc": "مزيل التعرق الطبي الامن \nيحتوي على مواد امنة لازالة رائحة التعرق والتقليل من انتاج العرق\nحاوي على مواد مفتحة للمنطقة تحت الابط ومواد مرطبة \nمتوفر بعدة روائح🩷",
-      "old_price": "",
+      "old_price": "350ل.س",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": false
+      "is_offer": true,
+      "variants": []
     },
     {
       "id": 1772889433308,
