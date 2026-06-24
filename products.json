@@ -1,5 +1,5 @@
 {
-  "_v": 1777727261296,
+  "_v": 1782344430262,
   "items": [
     {
       "id": 1777399350721,
@@ -368,13 +368,31 @@
     {
       "id": 1772891107463,
       "name": "زيوت الشعر🎀",
-      "price": "350 ل.س",
+      "price": "٤٠٠",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891037806_7814.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891037806_7814.webp"
+      ],
       "desc": "زيوت الشعر للتطويل والتكثيف \nحاوي على 8 زيوت وفيتامينات تساعد الشعر على زيادة الطول والكثافة🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات العناية بالشعر✨️",
-      "is_offer": false
+      "is_offer": false,
+      "variants": [
+        {
+          "label": "الحجم",
+          "options": [
+            {
+              "name": "30 مل",
+              "price": "400"
+            },
+            {
+              "name": "75 مل",
+              "price": "550"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": 1772890528741,
