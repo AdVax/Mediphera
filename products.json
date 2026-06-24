@@ -1,5 +1,5 @@
 {
-  "_v": 1782344480726,
+  "_v": 1782344513132,
   "items": [
     {
       "id": 1777399350721,
@@ -372,7 +372,7 @@
     {
       "id": 1772891107463,
       "name": "زيوت الشعر🎀",
-      "price": "٤٠٠",
+      "price": "400ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891037806_7814.webp",
       "imgs": [
         "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891037806_7814.webp"
@@ -388,11 +388,11 @@
           "options": [
             {
               "name": "30 مل",
-              "price": "400"
+              "price": "400ل.س"
             },
             {
               "name": "75 مل",
-              "price": "550"
+              "price": "550ل.س"
             }
           ]
         }
