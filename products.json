@@ -1,5 +1,5 @@
 {
-  "_v": 1782344430262,
+  "_v": 1782344480726,
   "items": [
     {
       "id": 1777399350721,
@@ -144,13 +144,17 @@
     {
       "id": 1772891143145,
       "name": "بديل الزيت🎀",
-      "price": "300ل.س",
+      "price": "350 ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891122434_8576.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772891122434_8576.webp"
+      ],
       "desc": "بديل الزيت الغني بالزيوت\nلعلاج التقصف وتخفيف النفشة وتغذية الشعر🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات العناية بالشعر✨️",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772889558914,
