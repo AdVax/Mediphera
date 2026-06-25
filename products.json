@@ -1,5 +1,5 @@
 {
-  "_v": 1782345179306,
+  "_v": 1782345772348,
   "items": [
     {
       "id": 1777399350721,
@@ -196,13 +196,17 @@
     {
       "id": 1772889433308,
       "name": "سيروم الرموش والحواجب🎀",
-      "price": "400ل.س",
+      "price": "450ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889361721_2813.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889361721_2813.webp"
+      ],
       "desc": "مقوي الرموش والحواجب الزيتي \nحاوي على 8 زيوت وفيتامينات بلاضافة للديكسابانتينول🩷\nيساعد على زيادة طول وكثافة الشعرة",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772889347405,
