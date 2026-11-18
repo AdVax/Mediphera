@@ -1,5 +1,5 @@
 {
-  "_v": 1795004514611,
+  "_v": 1795004549385,
   "items": [
     {
       "id": 1777399350721,
@@ -417,13 +417,17 @@
     {
       "id": 1772913731450,
       "name": "معطر الشعر🎀",
-      "price": "250ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913587115_8538.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913587115_8538.webp"
+      ],
       "desc": "معطر الشعر بلاعشاب\nيغذي الشعر ويمنح الشعر رائحة عطرة\nمتوفر بعدة روائح🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات العناية بالشعر✨️",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772891107463,
