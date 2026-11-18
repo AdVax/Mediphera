@@ -1,5 +1,5 @@
 {
-  "_v": 1795004285036,
+  "_v": 1795004300527,
   "items": [
     {
       "id": 1777399350721,
@@ -56,13 +56,17 @@
     {
       "id": 1772994707523,
       "name": "كريم مقشر🎀",
-      "price": "300ل.س",
+      "price": "400ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994681454_1086.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994681454_1086.webp"
+      ],
       "desc": "كريم مقشر بالسالسليك اسيد\nلعلاج حب الشباب واثاره 🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات العناية بالبشرة💕",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772994672754,
