@@ -1,5 +1,5 @@
 {
-  "_v": 1795004921959,
+  "_v": 1795004952157,
   "items": [
     {
       "id": 1777399350721,
@@ -32,11 +32,15 @@
       "name": "روتين العناية بالبشرة🎀",
       "price": "1150ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994849472_6757.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994849472_6757.webp"
+      ],
       "desc": "روتين العناية بالبشرة \nروتين متكامل للترطيب والنضارة والتفتيح وعلاج الهالات🩷",
-      "old_price": "1300ل.س",
+      "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات العناية بالبشرة💕",
-      "is_offer": true
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772994779960,
