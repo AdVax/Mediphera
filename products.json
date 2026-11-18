@@ -1,5 +1,5 @@
 {
-  "_v": 1795004489098,
+  "_v": 1795004501580,
   "items": [
     {
       "id": 1777399350721,
@@ -365,13 +365,17 @@
     {
       "id": 1772993684943,
       "name": "صابونة للجسم🎀",
-      "price": "200ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993640968_3685.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772993640968_3685.webp"
+      ],
       "desc": "صوابين الجسم \nبروائح متنوعة \nمتوفر نسائي ورجالي🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "صابون🧼",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772915339896,
