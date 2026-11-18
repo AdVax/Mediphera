@@ -1,5 +1,5 @@
 {
-  "_v": 1795004591938,
+  "_v": 1795004600608,
   "items": [
     {
       "id": 1777399350721,
@@ -491,13 +491,17 @@
     {
       "id": 1772890375489,
       "name": "صابونة الكولاجين🎀",
-      "price": "250ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890312142_1538.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890312142_1538.webp"
+      ],
       "desc": "صابونة الكولاجين للشد والتغذية\nحاوية على كولاجين ولبان ذكر وزيت لبان الذكر ومواد مغذية ومرطبة🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "صابون🧼",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772889811684,
