@@ -1,5 +1,5 @@
 {
-  "_v": 1795004575724,
+  "_v": 1795004591938,
   "items": [
     {
       "id": 1777399350721,
@@ -476,13 +476,17 @@
     {
       "id": 1772890453611,
       "name": "صابونة علاج حب الشباب🎀",
-      "price": "250ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890389019_1758.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772890389019_1758.webp"
+      ],
       "desc": "صابونة علاج حب الشباب \nالحاوية على سالسليك اسيد وزيت شجرة الشاي🩷\n",
       "old_price": "",
       "badge_text": "",
       "cat": "صابون🧼",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772890375489,
