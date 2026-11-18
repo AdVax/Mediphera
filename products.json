@@ -1,5 +1,5 @@
 {
-  "_v": 1795004813626,
+  "_v": 1795004823531,
   "items": [
     {
       "id": 1777399350721,
@@ -403,13 +403,17 @@
     {
       "id": 1772914012100,
       "name": "Gloss🎀",
-      "price": "200ل.س",
+      "price": "300ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913958739_6213.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772913958739_6213.webp"
+      ],
       "desc": "غلوس الشفاه\nملمع ومغذي الشفاه 🩷\nمتوفر بعدة الوان🩷",
       "old_price": "250ل.س",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": true
+      "is_offer": true,
+      "variants": []
     },
     {
       "id": 1772913903458,
