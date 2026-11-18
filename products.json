@@ -1,5 +1,5 @@
 {
-  "_v": 1795004270750,
+  "_v": 1795004285036,
   "items": [
     {
       "id": 1777399350721,
@@ -41,13 +41,17 @@
     {
       "id": 1772994779960,
       "name": "سيروم الكولاجين🎀",
-      "price": "350ل.س",
+      "price": "450ل.س",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994740192_8879.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772994740192_8879.webp"
+      ],
       "desc": "سيروم الكولاجين \nلتعزيز مرونة البشرة_شد البشرة _يعطي مظهر امتلاء للبشرة🩷",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات العناية بالبشرة💕",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772994707523,
