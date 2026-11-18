@@ -1,5 +1,5 @@
 {
-  "_v": 1795004406542,
+  "_v": 1795004418624,
   "items": [
     {
       "id": 1777399350721,
@@ -250,13 +250,17 @@
     {
       "id": 1772889252385,
       "name": "ماء ميسلار🎀",
-      "price": "300ل.س",
+      "price": "40",
       "img": "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889173364_9001.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/Mediphera@main/images/img_1772889173364_9001.webp"
+      ],
       "desc": "مزيل المكياج العميق \nينظف المكياج ويدخل للمسام بعمق لتنظيفها من الاوساخ وبقايا المكياج🩷\n",
       "old_price": "",
       "badge_text": "",
       "cat": "مستحضرات التجميل💄",
-      "is_offer": false
+      "is_offer": false,
+      "variants": []
     },
     {
       "id": 1772889156171,
